@@ -309,7 +309,7 @@ const users = [
   { legajo: "954", documento:  "42472886", nombre: "INFANTE Carlos" },
   { legajo: "955", documento:  "42447209", nombre: "MANZONI, Leandro David" },
   { legajo: "956", documento:  "37787227", nombre: "RUBIO Nicolas Daniel" },
-  { legajo: "959", documento:  "95889224", nombre: "RODRIGUEZ Jose Luis" },
+  { legajo: "959", documento:  "95889245", nombre: "RODRIGUEZ Jose Luis" },
   { legajo: "961", documento:  "43104280", nombre: "PUCH Juan Gabriel" },
   { legajo: "962", documento:  "42476455", nombre: "BERTONI Facundo" },
   { legajo: "963", documento:  "26477304", nombre: "PUGLIESO Veronica Rosana" },
